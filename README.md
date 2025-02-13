@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/raphaelrmarques" target="blank"><img src="https://img.shields.io/twitter/follow/raphaelrmarques?logo=twitter&style=for-the-badge" alt="raphaelrmarques" /></a> </p>
 
-- 🔭 Atualmente Trabalho na ZUP **Zup IT**
-
-- 🌱 Atualmente melhorando: **Spark, JAVA, CDD, BDD**
+- 🌱 Atualmente melhorando: **Spark, JAVA, Python, CDD, BDD**
 
 - 👯 Procuro colaborar com Projetos de Big Data **Spark, Hadoop**
 
